@@ -9,8 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser. deployment site is below. Note there might error with deployment due to some dependencies with time interval to run it to debug snd run it: 
-https://apt-test-blockfuse-git-main-kolawolecybers-projects.vercel.app/
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser. deployment site is below: 
+https://blockfuse-apt-test.vercel.app/
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
